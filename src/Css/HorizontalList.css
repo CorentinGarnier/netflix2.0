@@ -1,0 +1,8 @@
+.container-horizontal-list {
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.container-horizontal-list-li {
+    min-width: 100%;
+}

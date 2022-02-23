@@ -1,0 +1,11 @@
+.container-movies {
+    border: solid 2px black;
+    border-radius: 8px;
+    padding: 6px 8px;
+}
+.button-movies {
+    border: solid 1px black;
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-size: 12px;
+}
